@@ -62,7 +62,7 @@ function answer(value){
 	deleteUsed();
 	if(value === question.answer) {
 		points++;
-		if(points==15){
+		if(points==4){
 			document.getElementById('answerT').style.display="none";
 			document.getElementById('answerF').style.display="none";
 			document.getElementById('questions').style.display="none";
