@@ -2,7 +2,7 @@ var currentCategory= ['', '', '', ''];
 var Questions= [
 	// store answer with questions for easier retrieval
 
-	{ category: '', question: 'Agent customer experience in all star star program , TNPS gets 20% from the evaluation', answer: false },
+	{ category: '', question: 'Agent customer experience in all star program , TNPS gets 20% from the evaluation', answer: false },
 	{ category: '', question: 'In final commission Accelerator if you get 102% final commission you will increase 10 % extra ', answer: false },
 	{ category: '', question: 'Productivity & Operation wight on KPI is 28%', answer: true },
 	{ category: '', question: 'in mystery evaluation if you get 82% you will get 100% over all score ', answer: true },];
